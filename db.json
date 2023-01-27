@@ -1,12 +1,13 @@
 {
   "empresas": [
-    {
-      "id": 1,
-      "CNPJ": "14.678.001/0001-02",
-      "Nome da empresa": "MAC INCORPORADORA LTDA",
-      "Fantasia nome": "MAC INCORPORADORA",
-      "Situação cadastral": "ATIVA desde 2011-11-25",
-      "Opção pelo MEI": "Não",
-      "Opção pelo simples": "NÃO OPTANTE"
-    }
+		{
+		  "id": 1,
+		  "CNPJ": "14.678.001/0001-02",
+		  "Nome da empresa": "MAC INCORPORADORA LTDA",
+		  "Fantasia nome": "MAC INCORPORADORA",
+		  "Situação cadastral": "ATIVA desde 2011-11-25",
+		  "Opção pelo MEI": "Não",
+		  "Opção pelo simples": "NÃO OPTANTE"
+		}
+	]
 }
